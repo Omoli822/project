@@ -33,4 +33,4 @@ run
 ./setup.sh if on mac limux first run chmod +x setup.sh then run command 
 
 # help
-this is open sorce pls help the project
+this is open sorce pls help the project we are working to add trainig to chatgpt in the futre 
