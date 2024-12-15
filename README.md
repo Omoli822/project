@@ -1,3 +1,7 @@
+## give me a good name
+sorry for the bad name
+# setup
+
 create .env with
 
 DB_HOST=localhost
@@ -22,7 +26,11 @@ create config.json or not with
   "databaseName": ""
 }
 
+# run
 run npm install
 
 run
 ./setup.sh if on mac limux first run chmod +x setup.sh then run command 
+
+# help
+this is open sorce pls help the project
